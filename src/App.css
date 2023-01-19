@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+#root {
+  background: linear-gradient(97.47deg,rgba(234,128,252,.67) 13.65%,rgba(234,128,252,0) 97.25%),#0042c6;
+  width: 100vw;
+  height: 100vh;
+  margin: -8px;
+}
+
+.bg {
+  background-color: rgba(255,255,255,0.2);
+}
+
+.navbar li a {
+  color: #fff;
+}
+
+.navbar li {
+  list-style-type: none;
+  display: inline-block;
+  margin: 10px 20px;
+}
